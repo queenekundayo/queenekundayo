@@ -1,16 +1,26 @@
-## Hi there 👋
+# Queen Ekundayo | Web3 Data & Fraud Analyst
+[LinkedIn URL] | queenekundayo26@gmail.com
 
-<!--
-**queenekundayo/queenekundayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+Blockchain data analyst specialising in on-chain transaction analysis, DeFi protocol analytics and Web3 financial crime investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills:** SQL · Power BI · Python  
+**Blockchain Tools:** Etherscan · Dune Analytics · Flipside Crypto · Breadcrumbs · Metasleuth  
+**Focus Areas:** On-chain analytics · DeFi data · Wallet profiling · Fund flow analysis · Fraud analysis and investigations
+
+---
+
+## Projects
+| # | Title | Type | Chain | Status |
+|---|-------|------|-------|--------|
+| 01| Binance Hot Wallet Profile | Wallet Analysis | ETH | Complete |
+
+---
+
+## Credentials
+- TRM-CFC Essentials — TRM Labs *(in progress)*
+- Alison Diploma: Fraud Management & AML *(in progress)*
+- Chainalysis Academy — Blockchain Basics *(in progress)*
+
