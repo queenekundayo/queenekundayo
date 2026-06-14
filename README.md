@@ -22,9 +22,10 @@ Web3 data analyst specializing in on-chain data analytics and financial crime in
 ---
 
 ## Projects
-| # | Title | Type | Chain | Status | Project Link |
-|---|-------|------|-------|--------|--------------|
-| 01| Binance Hot Wallet Profile | Wallet Analysis | ETH | Complete | [View](https://github.com/queenekundayo/Wallet-Analysis/tree/main) |
+| # | Title | Type | Status | Project Link |
+|---|-------|------|--------|--------------|
+| 01| Binance Hot Wallet Profile | Wallet Analysis | Complete | [View](https://github.com/queenekundayo/Wallet-Analysis/tree/main) |
+| 02| DEX Trading Volume Analysis| Blockchain Data Analysis | Complete | [View](https://github.com/queenekundayo/DEX-Trading-Volume-Analysis-30-days-)| 
 
 ---
 
