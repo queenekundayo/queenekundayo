@@ -1,5 +1,4 @@
-# Queen Ekundayo | Web3 Data & Fraud Analyst
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queen-ekundayo-561222313)
+# Queen Ekundayo | Data Analyst
 [![Gmail](https://img.shields.io/badge/Gmail-queenekundayo26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queenekundayo26@gmail.com)
 
 ---
@@ -27,10 +26,4 @@ Web3 data analyst specializing in on-chain data analytics and financial crime in
 | 01| Binance Hot Wallet Profile | Wallet Analysis | Complete | Nil|
 | 02| DEX Trading Volume Analysis| Blockchain Data Analysis | Complete | [View](https://github.com/queenekundayo/DEX-Trading-Volume-Analysis-30-days-)| 
 | 03| Token Research(USDC)| Blockchain Analysis | Complete | [View](https://dune.com/queentami6962/token-research-dashboard-usdc)|
----
-
-## Credentials
-- TRM-CFC Essentials — TRM Labs *(in progress)*
-- Alison Diploma: Fraud Management & AML *(in progress)*
-- Chainalysis Academy — Blockchain Basics *(in progress)*
-
+--
