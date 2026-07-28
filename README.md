@@ -4,26 +4,27 @@
 ---
 
 ## About
-Web3 data analyst specializing in on-chain data analytics and financial crime investigation.
-
-
+#### Computer Science student building data analysis skills through hands on projects. Drawn to financial data with growing interest in logistics/supply chain analytics.
 ---
 
 ## Skills
-| Category | Tools & Skills |
-|----------|---------------|
-| Blockchain Analytics | Etherscan, Dune Analytics, Flipside Crypto |
-| Investigation Tools | Breadcrumbs, Metasleuth, Tenderly |
-| Data & BI | SQL, Power BI, Python, Excel|
-| Focus Areas | DeFi Analytics, Wallet Profiling, Fund Flow Analysis, On-Chain Fraud Detection |
-
-
+-  Excel/Google Sheets
+-  SQL
+-  Python for Data Analysis
+-  Data Visualization
+-  A/B Testing
+-  Report Writing
 ---
 
 ## Projects
 | # | Title | Type | Status | Project Link |
 |---|-------|------|--------|--------------|
-| 01| Binance Hot Wallet Profile | Wallet Analysis | Complete | Nil|
-| 02| DEX Trading Volume Analysis| Blockchain Data Analysis | Complete | [View](https://github.com/queenekundayo/DEX-Trading-Volume-Analysis-30-days-)| 
-| 03| Token Research(USDC)| Blockchain Analysis | Complete | [View](https://dune.com/queentami6962/token-research-dashboard-usdc)|
---
+| 01| Exploratory Data Analysis of NYC AirBnB Open Data| Exploratory Data Analysis | Complete | Nil|
+| 02| A/B Testing on Simulated Dataset| A/B Testing | Complete | [View]| 
+| 03| A/B Test on Marketing Data| A/B Testing | Complete | [View]|
+--- 
+
+## Links
+-  [View](https://queenekundayo.github.io)
+
+
