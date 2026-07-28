@@ -19,12 +19,12 @@
 ## Projects
 | # | Title | Type | Status | Project Link |
 |---|-------|------|--------|--------------|
-| 01| Exploratory Data Analysis of NYC AirBnB Open Data| Exploratory Data Analysis | Complete | Nil|
-| 02| A/B Testing on Simulated Dataset| A/B Testing | Complete | [View]| 
+| 01| Exploratory Data Analysis of NYC Airbnb Open Data| Exploratory Data Analysis | Complete | [View](https://github.com/queenekundayo/NYC-Airbnb-Analysis/tree/main)|
+| 02| A/B Testing on Simulated Dataset| A/B Testing | Complete | [View](https://github.com/queenekundayo/Checkout-Redesign-A/B-Testing-/tree/main)| 
 | 03| A/B Test on Marketing Data| A/B Testing | Complete | [View]|
 --- 
 
 ## Links
--  [View](https://queenekundayo.github.io)
+-  [Portfolio Site](https://queenekundayo.github.io)
 
 
